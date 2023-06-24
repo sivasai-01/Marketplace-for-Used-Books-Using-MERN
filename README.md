@@ -6,3 +6,8 @@ Google Books Search is a MERN application that allows users to search books, vie
 # Technologies used
 
 HTML, CSS, JavaScript, Node.js, Express, MongoDB, Mongoose, React, Heroku, axios, React router DOM, Google Books API, Bootstrap.
+
+# Installation
+To install necessary dependencies, run the following command:
+
+  npm i
